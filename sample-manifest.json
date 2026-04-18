@@ -1,12 +1,12 @@
 {
-  "export_job_id": "7ace1bac-6dc3-4408-b685-59a2ba6b6150",
+  "export_job_id": "cf216e27-a1d7-49fb-879c-3ef5dc2db785",
   "id_short": 413830,
-  "published_at": "2026-04-12T19:05:23Z",
+  "published_at": "2026-04-18T19:04:35Z",
   "repo_name": "the-hhi-monopoly-index-for-phoenix-arizona-us-sample-413830",
   "sample_asset_name": "beamstation_413830_restaurants-us-az_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/413830/beamstation_413830_restaurants-us-az_SAMPLE_DIST.csv",
-  "sample_records": 11,
-  "sample_sha256": "93c9d525c170ce94e620e5ebbeec248565ee52b8e8fa56c617f2c62675001d54",
-  "sample_size_bytes": 62603,
-  "total_records": 114
+  "sample_records": 8,
+  "sample_sha256": "a84a54a16e6ed5397c0938b8039fbebcad4de7723470a699c0152d5578f5eb91",
+  "sample_size_bytes": 48395,
+  "total_records": 82
 }
